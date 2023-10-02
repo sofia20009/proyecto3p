@@ -1,0 +1,432 @@
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("fondo\ morado.jpg");
+    
+    background-repeat: no-repeat;
+    
+    }
+
+    .fondosociales{
+        background-image: url("fondo\ morado.jpg");
+    
+        background-repeat: no-repeat;
+        
+
+    }
+
+    
+    
+    
+    .img{
+    
+    position: relative;
+    
+     
+    
+    width: 190px;
+    
+    height: 190px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("fondo\ morado.jpgs");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 60px;
+    
+    text-align: justify;
+    
+    color: brown;
+    
+     
+    
+    }
+    
+    .contenido{
+
+        height: 280px;
+        
+        width: 100%;
+        
+        position: absolute;
+        
+        top: 410px;
+        
+         
+        
+        }
+        
+         
+        
+        
+        .imagensoc{
+        
+         
+        
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 2000px;
+            
+            width: 2000px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("mapa\ mental\ condicion\ humana.png");
+            
+            }
+
+            .imagensoc1{
+        
+         
+        
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 2000px;
+                
+                width: 2000px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("independencia.jpeg");
+                
+                }
+        
+        
+        
+        .textosoc{
+        
+        text-align: justify;
+        
+        color: azure;
+        
+        font-size: 32px;
+        
+        
+        
+        }
+        
+        
+        
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imageningles{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("fondo\ morado.html");
+            
+            }
+            
+            
+            
+            .textoingles{
+            
+            text-align: justify;
+            
+            color: rgb(0, 0, 0);
+            
+            font-size: 20px;
+            
+            
+            
+            }
+        
+         .encabezado{
+            height: 150px;
+            width: 100%;
+
+         }
+
+        
+        
+        
+        
+        .contenido{
+
+            height: 280px;
+            
+            width: 100%;
+            
+            position: absolute;
+            
+            top: 410px;
+            
+             
+            
+            }
+            
+             
+            
+            .imagenmatematicas1{
+            
+             
+            
+            background-repeat: no-repeat;
+            
+            float:left;
+            
+            height: 200px;
+            
+            width: 260px;
+            
+            margin-left: 5px;
+            
+            margin-right:5px;
+            
+            background-image: url("suma.jpg");
+            
+            }
+            
+            
+            
+            
+            .imagenmatematicas2{
+            
+             
+            
+                background-repeat: no-repeat;
+                
+                float:left;
+                
+                height: 200px;
+                
+                width: 260px;
+                
+                margin-left: 5px;
+                
+                margin-right:5px;
+                
+                background-image: url("resta.jpg");
+                
+                }
+
+
+                .imagenmatematicas{
+            
+             
+            
+                    background-repeat: no-repeat;
+                    
+                    float:left;
+                    
+                    height: 200px;
+                    
+                    width: 260px;
+                    
+                    margin-left: 5px;
+                    
+                    margin-right:5px;
+                    
+                    background-image: url("multiplicacion.png");
+                    
+                    }
+                    .contenido{
+
+                        height: 280px;
+                        
+                        width: 100%;
+                        
+                        position: absolute;
+                        
+                        top: 410px;
+                        
+                         
+                        
+                        }
+                        .textobiologia{
+            
+                            text-align: justify;
+                            
+                            color: rgb(0, 0, 0);
+                            
+                            font-size: 20px;
+                            
+                            
+                            
+                            }
+                            .contenido{
+
+                                height: 280px;
+                                
+                                width: 100%;
+                                
+                                position: absolute;
+                                
+                                top: 410px;
+                                
+                                 
+                                
+                                }
+                                
+                                 
+                                
+                                .imagentecno{
+            
+             
+            
+                                    background-repeat: no-repeat;
+                                    
+                                    float:left;
+                                    
+                                    height: 200px;
+                                    
+                                    width: 260px;
+                                    
+                                    margin-left: 5px;
+                                    
+                                    margin-right:5px;
+                                    
+                                    background-image: url("imagen\ 1\ tecno.jpeg");
+                                    
+                                    }
+
+                                
+                                    .imagentecno1{
+            
+             
+            
+                                        background-repeat: no-repeat;
+                                        
+                                        float:left;
+                                        
+                                        height: 200px;
+                                        
+                                        width: 260px;
+                                        
+                                        margin-left: 5px;
+                                        
+                                        margin-right:5px;
+                                        
+                                        background-image: url("imagen\ 3\ tecno.jpeg");
+                                        
+                                        }
+
+                                        .imagentecno3{
+            
+             
+            
+                                            background-repeat: no-repeat;
+                                            
+                                            float:left;
+                                            
+                                            height: 200px;
+                                            
+                                            width: 260px;
+                                            
+                                            margin-left: 5px;
+                                            
+                                            margin-right:5px;
+                                            
+                                            background-image: url("gif\ tecno_files/");
+                                            
+                                            }
+                                .textotecno{
+            
+                                    text-align: justify;
+                                    
+                                    color: rgb(0, 0, 0);
+                                    
+                                    font-size: 20px;
+                                    
+                                    
+                                    
+                                    }
+                                
+                                    .contenido{
+
+                                        height: 280px;
+                                        
+                                        width: 100%;
+                                        
+                                        position: absolute;
+                                        
+                                        top: 410px;
+                                        
+                                         
+                                        
+                                        }
+                                        
+                                         
+                                        
+                                        
+        
+                                        
+        
+        
+                                        .textoreligion{
+                    
+                                            text-align: justify;
+                                            
+                                            color: rgb(0, 0, 0);
+                                            
+                                            font-size: 20px;
+                                            
+                                            
+                                            
+                                            }
+                                        
+                                             
