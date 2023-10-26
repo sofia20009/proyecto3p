@@ -378,13 +378,6 @@
                                     
                                     }
                                 
-                                    
-                                         
-                                        
-                                        
-        
-                                        
-        
         
                                         
 
@@ -433,7 +426,7 @@
                                                 
                                                 width: 2000px;
                                                 
-                                                margin-left: 5px;
+                                                margin-left: 257px;
                                                 
                                                 margin-right:5px;
                                                 
@@ -441,8 +434,135 @@
                                                 
                                                 
                                                 }
-                                        
+                                                .contenido{
 
+                                                    height: 280px;
+                                                    
+                                                    width: 100%;
+                                                    
+                                                    position: absolute;
+                                                    
+                                                    top: 410px;
+                                                    
+                                                     
+                                                    
+                                                    }
 
+                                                    .textomate2{
+                    
+                                                        text-align: justify;
+                                                        
+                                                        color: rgb(0, 0, 0);
+                                                        
+                                                        font-size: 20px;
+                                                        
+                                                        
+                                                        
+                                                        }           
+                                                        .imagenmate2{
+        
+         
+        
+                                                            background-repeat: no-repeat;
+                                                            
+                                                            float:left;
+                                                            
+                                                            height: 2000px;
+                                                            
+                                                            width: 2000px;
+                                                            
+                                                            margin-left: 5px;
+                                                            
+                                                            margin-right:5px;
+                                                            
+                                                            background-image: url("Profegrillo.jpg");
+                                                            
+                                                            
+                                                            }
+                                                            .contenido{
 
-                                             
+                                                                height: 280px;
+                                                                
+                                                                width: 100%;
+                                                                
+                                                                position: absolute;
+                                                                
+                                                                top: 410px;
+                                                                
+                                                                 
+                                                                
+                                                                }
+
+                                                                .textoingles1{
+                    
+                                                                    text-align: justify;
+                                                                    
+                                                                    color: rgb(0, 0, 0);
+                                                                    
+                                                                    font-size: 20px;
+                                                                    
+                                                                    
+                                                                    
+                                                                    }       
+                                                                    .textoingles2{
+                    
+                                                                        text-align: justify;
+                                                                        
+                                                                        color: rgb(0, 0, 0);
+                                                                        
+                                                                        font-size: 20px;
+                                                                        
+                                                                        
+                                                                        
+                                                                        }       
+                                                                        .imageningles2{
+        
+         
+        
+                                                                            background-repeat: no-repeat;
+                                                                            
+                                                                            float:left;
+                                                                            
+                                                                            height: 2000px;
+                                                                            
+                                                                            width: 2000px;
+                                                                            
+                                                                            margin-left: 5px;
+                                                                            
+                                                                            margin-right:5px;
+                                                                            
+                                                                            background-image: url("Regla\ 1\ ingles.jpg");
+                                                                            
+                                                                            
+                                                                            }
+                                                                            .textoingles3{
+                    
+                                                                                text-align: justify;
+                                                                                
+                                                                                color: rgb(0, 0, 0);
+                                                                                
+                                                                                font-size: 20px;
+                                                                                
+                                                                                
+                                                                                
+                                                                                }       
+                                                                                .imageningles3{
+        
+         
+        
+                                                                                    background-repeat: no-repeat;
+                                                                                    
+                                                                                    float:left;
+                                                                                    
+                                                                                    height: 2000px;
+                                                                                    
+                                                                                    width: 2000px;
+                                                                                    
+                                                                                    margin-left: 5px;
+                                                                                    
+                                                                                    margin-right:5px;
+                                                                                    
+                                                                                    background-image: url("");
+                                                                                    
+                                                                                    
+                                                                                    }
