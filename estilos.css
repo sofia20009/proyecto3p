@@ -109,25 +109,7 @@
             
             }
 
-            .imagensoc1{
-        
-         
-        
-                background-repeat: no-repeat;
-                
-                float:left;
-                
-                height: 2000px;
-                
-                width: 2000px;
-                
-                margin-left: 5px;
-                
-                margin-right:5px;
-                
-                background-image: url("independencia.jpeg");
-                
-                }
+            
         
         
         
@@ -396,37 +378,71 @@
                                     
                                     }
                                 
-                                    .contenido{
+                                    
+                                         
+                                        
+                                        
+        
+                                        
+        
+        
+                                        
 
-                                        height: 280px;
-                                        
-                                        width: 100%;
-                                        
-                                        position: absolute;
-                                        
-                                        top: 410px;
-                                        
-                                         
-                                        
-                                        }
-                                        
-                                         
-                                        
-                                        
-        
-                                        
-        
-        
-                                        .textoreligion{
+
+                                            .contenido{
+
+                                                height: 280px;
+                                                
+                                                width: 100%;
+                                                
+                                                position: absolute;
+                                                
+                                                top: 410px;
+                                                
+                                                 
+                                                
+                                                }
+                                    
+
+
+                                                .textoreligion{
                     
-                                            text-align: justify;
+                                                    text-align: justify;
+                                                    
+                                                    color: rgb(0, 0, 0);
+                                                    
+                                                    font-size: 20px;
+                                                    
+                                                    
+                                                    
+                                                    }             
+                                    
+                                   
+
                                             
-                                            color: rgb(0, 0, 0);
-                                            
-                                            font-size: 20px;
-                                            
-                                            
-                                            
-                                            }
+
+                                            .imagensoc2{
+        
+         
+        
+                                                background-repeat: no-repeat;
+                                                
+                                                float:left;
+                                                
+                                                height: 2000px;
+                                                
+                                                width: 2000px;
+                                                
+                                                margin-left: 5px;
+                                                
+                                                margin-right:5px;
+                                                
+                                                background-image: url("revolucionindustrial.jpg");
+                                                
+                                                
+                                                }
                                         
+
+
+
                                              
