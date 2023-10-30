@@ -62,7 +62,7 @@
     
     .texto{
     
-    font-size: 60px;
+    font-size: 30px;
     
     text-align: justify;
     
@@ -80,7 +80,7 @@
         
         position: absolute;
         
-        top: 410px;
+        top: 323px;
         
          
         
@@ -127,19 +127,7 @@
         
         
         
-        .contenido{
-
-            height: 280px;
-            
-            width: 100%;
-            
-            position: absolute;
-            
-            top: 410px;
-            
-             
-            
-            }
+        
             
              
             
@@ -164,18 +152,7 @@
             }
             
             
-            
-            .textoingles{
-            
-            text-align: justify;
-            
-            color: rgb(0, 0, 0);
-            
-            font-size: 20px;
-            
-            
-            
-            }
+        
         
          .encabezado{
             height: 150px;
@@ -184,22 +161,6 @@
          }
 
         
-        
-        
-        
-        .contenido{
-
-            height: 280px;
-            
-            width: 100%;
-            
-            position: absolute;
-            
-            top: 410px;
-            
-             
-            
-            }
             
              
             
@@ -266,44 +227,9 @@
                     background-image: url("multiplicacion.png");
                     
                     }
-                    .contenido{
-
-                        height: 280px;
+                    
                         
-                        width: 100%;
-                        
-                        position: absolute;
-                        
-                        top: 410px;
-                        
-                         
-                        
-                        }
-                        .textobiologia{
-            
-                            text-align: justify;
                             
-                            color: rgb(0, 0, 0);
-                            
-                            font-size: 20px;
-                            
-                            
-                            
-                            }
-                            .contenido{
-
-                                height: 280px;
-                                
-                                width: 100%;
-                                
-                                position: absolute;
-                                
-                                top: 410px;
-                                
-                                 
-                                
-                                }
-                                
                                  
                                 
                                 .imagentecno{
@@ -366,49 +292,11 @@
                                             background-image: url("gif\ tecno_files/");
                                             
                                             }
-                                .textotecno{
-            
-                                    text-align: justify;
-                                    
-                                    color: rgb(0, 0, 0);
-                                    
-                                    font-size: 20px;
-                                    
-                                    
-                                    
-                                    }
                                 
-        
-                                        
-
-
-                                            .contenido{
-
-                                                height: 280px;
-                                                
-                                                width: 100%;
-                                                
-                                                position: absolute;
-                                                
-                                                top: 410px;
-                                                
-                                                 
-                                                
-                                                }
-                                    
-
-
-                                                .textoreligion{
-                    
-                                                    text-align: justify;
-                                                    
-                                                    color: rgb(0, 0, 0);
-                                                    
-                                                    font-size: 20px;
                                                     
                                                     
                                                     
-                                                    }             
+                                   
                                     
                                    
 
@@ -434,87 +322,29 @@
                                                 
                                                 
                                                 }
-                                                .contenido{
-
-                                                    height: 280px;
-                                                    
-                                                    width: 100%;
-                                                    
-                                                    position: absolute;
-                                                    
-                                                    top: 410px;
-                                                    
-                                                     
-                                                    
-                                                    }
-
-                                                    .textomate2{
-                    
-                                                        text-align: justify;
-                                                        
-                                                        color: rgb(0, 0, 0);
-                                                        
-                                                        font-size: 20px;
-                                                        
-                                                        
-                                                        
-                                                        }           
+                                                           
                                                         .imagenmate2{
         
          
         
                                                             background-repeat: no-repeat;
-                                                            
+                                                           
                                                             float:left;
                                                             
-                                                            height: 2000px;
+                                                            height: 405px;
                                                             
-                                                            width: 2000px;
+                                                            width: 100%;
                                                             
                                                             margin-left: 5px;
                                                             
                                                             margin-right:5px;
                                                             
                                                             background-image: url("Profegrillo.jpg");
-                                                            
-                                                            
-                                                            }
-                                                            .contenido{
-
-                                                                height: 280px;
-                                                                
-                                                                width: 100%;
-                                                                
-                                                                position: absolute;
-                                                                
-                                                                top: 410px;
-                                                                
-                                                                 
-                                                                
-                                                                }
-
-                                                                .textoingles1{
-                    
-                                                                    text-align: justify;
-                                                                    
-                                                                    color: rgb(0, 0, 0);
-                                                                    
-                                                                    font-size: 20px;
-                                                                    
-                                                                    
-                                                                    
-                                                                    }       
-                                                                    .textoingles2{
-                    
-                                                                        text-align: justify;
+                                                
                                                                         
-                                                                        color: rgb(0, 0, 0);
+                                                        }         
                                                                         
-                                                                        font-size: 20px;
-                                                                        
-                                                                        
-                                                                        
-                                                                        }       
+                                                                               
                                                                         .imageningles2{
         
          
@@ -535,17 +365,7 @@
                                                                             
                                                                             
                                                                             }
-                                                                            .textoingles3{
-                    
-                                                                                text-align: justify;
-                                                                                
-                                                                                color: rgb(0, 0, 0);
-                                                                                
-                                                                                font-size: 20px;
-                                                                                
-                                                                                
-                                                                                
-                                                                                }       
+                                                                              
                                                                                 .imageningles3{
         
          
